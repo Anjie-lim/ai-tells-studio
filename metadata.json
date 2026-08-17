@@ -1,0 +1,6 @@
+{
+  "name": "AI Tell Studio & Sheets Game",
+  "description": "AI Artifact Detective Game Builder with player registration, score recording, standalone HTML export, and Google Sheets/Excel integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
